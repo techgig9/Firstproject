@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Vinay\\Sample_Project\\Webapp\\Webapp.csproj": {}
+    "C:\\Vinay\\Sample_Project\\Webapp\\Webapp.csproj": {}
   },
   "projects": {
-    "c:\\Vinay\\Sample_Project\\Webapp\\Webapp.csproj": {
+    "C:\\Vinay\\Sample_Project\\Webapp\\Webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Vinay\\Sample_Project\\Webapp\\Webapp.csproj",
+        "projectUniqueName": "C:\\Vinay\\Sample_Project\\Webapp\\Webapp.csproj",
         "projectName": "Webapp",
-        "projectPath": "c:\\Vinay\\Sample_Project\\Webapp\\Webapp.csproj",
+        "projectPath": "C:\\Vinay\\Sample_Project\\Webapp\\Webapp.csproj",
         "packagesPath": "C:\\Users\\vinay\\.nuget\\packages\\",
-        "outputPath": "c:\\Vinay\\Sample_Project\\Webapp\\obj\\",
+        "outputPath": "C:\\Vinay\\Sample_Project\\Webapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinay\\AppData\\Roaming\\NuGet\\NuGet.Config"
