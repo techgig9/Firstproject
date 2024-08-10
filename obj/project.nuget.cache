@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVERn0irEd4=",
+  "success": true,
+  "projectFilePath": "c:\\Vinay\\Sample_Project\\Sample_Project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinay\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
